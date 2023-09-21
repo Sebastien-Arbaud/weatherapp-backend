@@ -6,7 +6,7 @@ const City = require('../models/cities');
 
 //Variable pour récupérer l'API KEY présente dans le fichier .env
 
-const API_KEY = process.env.API_KEY;
+const API_KEY = "32cb9e7a9b95035e1e9e7abe35a35eeb";
 
 
 //Création d'une route pour ajouter de nouvelles villes.
